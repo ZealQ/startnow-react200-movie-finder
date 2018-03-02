@@ -45,7 +45,7 @@ class MovieDetailContainer extends React.Component {
                         <p className= "col-12 font-weight-bold">Plot- {mData.Plot}</p>
                         <p className= "col-12 font-weight-bold">Awards- {mData.Awards}</p>
                         <p className="col-12 font-weight-bold">Metascore: {mData.Metascore}/100</p>
-                        <p className="col font-weight-bold">IMDB: {mData.imdbRating}</p>
+                        <p className="col font-weight-bold">IMDB: {mData.imdbRating}/10</p>
                       </div>
                     </div>
                   </div>
