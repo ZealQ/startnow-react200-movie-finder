@@ -20,6 +20,7 @@
     "babel-preset-stage-3": "^6.24.1",
     "babel-register": "^6.4.3",
     "bluebird": "^3.5.0",
+    "electron": "^1.8.2",
     "express": "^4.15.3",
     "file-loader": "^0.11.2",
     "json-loader": "^0.5.4",
@@ -38,7 +39,7 @@
     "redux-promise-middleware": "^5.0.0",
     "serve-favicon": "^2.0.1",
     "url-loader": "^0.5.9",
-    "webpack": "^2.0.0"
+    "webpack": "^2.7.0"
   },
   "devDependencies": {
     "axios-mock-adapter": "^1.6.1",

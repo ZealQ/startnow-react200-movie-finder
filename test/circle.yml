@@ -2,7 +2,7 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: netflix-and-chill
+      appname: project-moviefinder
 machine:
   node:
     version: 8.1.4
