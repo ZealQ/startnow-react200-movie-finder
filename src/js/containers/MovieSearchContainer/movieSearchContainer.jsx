@@ -72,18 +72,11 @@ export default class MovieSearchContainer extends React.Component {
                       </div>
                     </div>
                   </div>
-                </div>
+                </div>               
               )
             })
           }
         </div>
-
-
-
-
-
-
-
       </div>
     )
   }
