@@ -1,6 +1,6 @@
 {
   "name": "movie-finder",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A new React project.",
   "main": "server/index.js",
   "scripts": {
