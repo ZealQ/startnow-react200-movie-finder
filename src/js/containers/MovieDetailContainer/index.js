@@ -1,5 +1,5 @@
 import { connect } from "react-redux";
-import MovieDetailContainer from "./moviedetailcontainer"
+import MovieDetailContainer from "./moviedetailcontainer";
 
 function mapStateToProps(state) {
     return {
